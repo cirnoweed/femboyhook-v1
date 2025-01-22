@@ -3,7 +3,7 @@
 (w.i.p) FAQ: 
 
 *Q:* WTF IS FEMBOYHOOK???
-**A:** Cheat i made for fun and giggles, that i didnt drop week later. This cheat is my custom project since 2024, and everything could be changed.
+**A:** Opened Sorced Amalgamation Of Multiple Cheats i made for fun and giggles, that i didnt drop week later. This cheat is my custom project since 2024, and everything could be changed.
 
 *Q:* Why are u pasting????
 **A:** For now, FEMBOYHOOK.XYZ will be one of the trillion bilion pastes out there, but somewhere in the future, or i just hope so, will be full-made cheat.
