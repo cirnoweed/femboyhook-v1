@@ -1,18 +1,35 @@
-# femboyhook.media v1. Best worse cheat ever lived (not)
+# havenspace.tf
 
-(w.i.p) FAQ: 
+###### its like a beautiful, velvet seashore.
 
-*Q:* WTF IS FEMBOYHOOK???
-**A:** Opened Sorced Amalgamation Of Multiple Cheats i made for fun and giggles, that i didnt drop week later. This cheat is my custom project since 2024, and everything could be changed.
++--------------+
 
-*Q:* Why are u pasting????
-**A:** For now, femboyhook.media will be one of the trillion bilion pastes out there, but somewhere in the future, or i just hope so, will be full-made cheat.
+_FAQ_
 
-*Q:* What is it made of?
-**A:** Lots of things, but one of them is Jengaware by Mad? (https://github.com/canedoly/cs) and some code of Fedoraware and ChadAlphaMales
+Q: What *is* havenspace?
 
-*Q:* Why the cringe name?
-**A:** Simple, second thing this cheat made for is to troll cheaters, after Vic gave me idea..
-paste 
+A: **Havenspace.tf** is cheat made by ashtray in order to learn something about making cheats, most of the features is *pasted*, meaning there's a little bit of *his code*, although, in the future this cheat will grow into something bigger.
 
-![alt text](https://github.com/cirnoweed/femboyhook.media/blob/bd88c4fcfc29290cce1c8d567f8c824fb3413948/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F343.png)
+Q: What is it pasted from?
+
+A: It's pasted from bunch of open repositories, for example:
+1. *Jengaware*
+2. *Fedoraware*
+3. *Fusion* and *Amalgam*
+4. *ChadAlphaMale* ~formerly known as CAM~
+   *..etc.*
+
+don't forget, most of the code is jumble of spaghetti, so don't try to comprehend it.
+
+Q: What features does it have?
+
+A: 1. *Hitscan and Projectile Aimbot*
+   2. Doubletap
+   3. *Movement Features, like bhop, autostrafe..*
+   4. *Engine prediction*
+   5. *Simple ESP and visuals.*
+
+  *..etc.*
+
+
+(this FAQ is under construction, so not all of the information may be here.)
